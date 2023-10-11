@@ -1,22 +1,21 @@
 /*Estilos para a página HTML*/
 body{
-  font-family:Arial,sans-serif;
   /*As fontes do tipo Sans-Serif são as mais simples, direitas e limpas possíveis,são retas, bem quadradas mesmo, são 'sérias'.Não é por menos que ela é usada para textos formais e em títulos de jornais ou revistas.*/
-  background-color:#f0f0f0;
-  /*A cor hexadecimal #f0f0f0 corresponde ao modelo de cores RGB (Red, Green, Blue), com 240 de vermelho, 240 de verde e 240 de azul.*/
-  margin:0;
+  font-family:Arial,sans-serif;
+   /*A cor hexadecimal #f0f0f0 corresponde ao modelo de cores RGB (Red, Green, Blue), com 240 de vermelho, 240 de verde e 240 de azul.*/
+    background-color:#f0f0f0;
   /* margem de todos os lados = 0 */
-  padding:20px;
-  /*significa que os quatro lados ao redor do elemento terão o mesmo valor.*/
-}
+   margin:0;
+    /*significa que os quatro lados ao redor do elemento terão o mesmo valor.*/
+    padding:20px;
+  }
 h1{
-  color:#333;
   /*#333333 / #333 é uma escuro forma de cinzento. No modelo de cor RGB #333333 é um compromisso de 20% vermelho, 20% verde e 20% azul.*/
-}
-p{
+  color:#333;
+ }
+ p{
   color:#666;
-  /*é um tom de cinza médio escuro . No modelo de cores RGB #666666 é composto por 40% de vermelho, 40% de verde e 40% de azul.*/
-}
+ }
 /*Estilos para a classe .destaque*/
 .destaque{
   backgroud-color:#ffcc00;
