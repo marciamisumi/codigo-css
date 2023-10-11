@@ -3,15 +3,15 @@ body{
   /*As fontes do tipo Sans-Serif são as mais simples, direitas e limpas possíveis,são retas, bem quadradas mesmo, são 'sérias'.Não é por menos que ela é usada para textos formais e em títulos de jornais ou revistas.*/
   font-family:Arial,sans-serif;
    /*A cor hexadecimal #f0f0f0 corresponde ao modelo de cores RGB (Red, Green, Blue), com 240 de vermelho, 240 de verde e 240 de azul.*/
-    background-color:#f0f0f0;
+  background-color:#f0f0f0;
   /* margem de todos os lados = 0 */
-   margin:0;
+  margin:0;
     /*significa que os quatro lados ao redor do elemento terão o mesmo valor.*/
-    padding:20px;
+  padding:20px;
   }
+/*#333333 / #333 é uma escuro forma de cinzento. No modelo de cor RGB #333333 é um compromisso de 20% vermelho, 20% verde e 20% azul.*/
 h1{
-  /*#333333 / #333 é uma escuro forma de cinzento. No modelo de cor RGB #333333 é um compromisso de 20% vermelho, 20% verde e 20% azul.*/
-  color:#333;
+    color:#333;
  }
  p{
   color:#666;
